@@ -1,6 +1,4 @@
-# smart_reply
-
-## Script to extract email body from enron email dataset
+# Script to extract email body from enron email dataset
 
 #### The original data comes from 
 
